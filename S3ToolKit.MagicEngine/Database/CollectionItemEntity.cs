@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace S3ToolKit.MagicEngine
+namespace S3ToolKit.MagicEngine.Database
 {
-    public class Class1
+    public class CollectionItemEntity
     {
     }
 }
